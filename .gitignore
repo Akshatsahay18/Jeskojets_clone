@@ -1,0 +1,10 @@
+.next
+node_modules
+out
+dist
+*.log
+*.err
+*.tsbuildinfo
+sequence1.zip
+sequcence2.zip
+revolvingglobe.mp4.mp4
