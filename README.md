@@ -10,6 +10,10 @@ GitHub README pages do not reliably support inline YouTube playback, so the most
 
 Direct YouTube link: [https://youtu.be/SRtZxV4Coyw](https://youtu.be/SRtZxV4Coyw)
 
+## Process Document
+
+[Open the Jesko Jets clone process document](./docs/jesko-jets-clone-process.docx)
+
 ## Stack
 
 - Next.js 14 App Router
