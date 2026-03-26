@@ -2,13 +2,13 @@
 
 Cinematic luxury aviation experience built with Next.js 14, TypeScript, Tailwind CSS, Framer Motion, Lenis, and canvas-based image sequences.
 
-## Demo Recording
+## Demo Video
 
-If GitHub renders inline video in your current view, you can play it below.
+GitHub README pages do not reliably support inline YouTube playback, so the most reliable repository-friendly option is a clickable preview that opens the video immediately on YouTube.
 
-<video src="./docs/jesko-jets-demo.mp4" controls muted playsinline width="100%"></video>
+[![Watch the Jesko Jets demo](https://img.youtube.com/vi/SRtZxV4Coyw/hqdefault.jpg)](https://youtu.be/SRtZxV4Coyw)
 
-Direct video link: [Play the demo recording](./docs/jesko-jets-demo.mp4)
+Direct YouTube link: [https://youtu.be/SRtZxV4Coyw](https://youtu.be/SRtZxV4Coyw)
 
 ## Stack
 
